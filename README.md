@@ -1,7 +1,5 @@
-# 3-Finger Shot — Direct APK Download (`#f766e06`)
+# 3-Finger Shot — Release APK Mirror
 
-Tap the link below on your Android phone to download and install the latest signed Release APK:
-
-- **[Download ThreeFingerShot-release.apk (#f766e06)](https://raw.githubusercontent.com/hmaki123/3-scren-shoot-finger-apk/main/ThreeFingerShot-release.apk)**
-
-SHA-256: `4553a067cb19237c11049430efc19bc33fe0bccf6829647b545f0fceb74601d2`
+- **Latest Build:** `#d82fa90` (`version_code`: `29928660`, built `2026-11-26 19:04 UTC`)
+- **Direct APK Download:** https://raw.githubusercontent.com/hmaki123/3-scren-shoot-finger-apk/main/ThreeFingerShot-release.apk
+- **SHA-256:** `499264bdd4c05ecc76b792fa3bac64c1d1b29346b64eab7a7c79cb5df4c35736`
