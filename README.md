@@ -1,5 +1,5 @@
 # 3-Finger Shot — Release APK Mirror
 
-- **Latest Build:** `#412e4d8` (`version_code`: `29928684`, built `2026-11-26 19:27 UTC`)
+- **Latest Build:** `#ddc1ac2` (`version_code`: `29928742`, built `2026-11-26 20:25 UTC`)
 - **Direct APK Download:** https://raw.githubusercontent.com/hmaki123/3-scren-shoot-finger-apk/main/ThreeFingerShot-release.apk
-- **SHA-256:** `bcc147e35df4e77974faf389b6b275a9ac288f61209ce85064bab9311b0c8263`
+- **SHA-256:** `f3a2c2bb942766f9be970606095ced827037cd34803aa57515025e0f7347fc20`
